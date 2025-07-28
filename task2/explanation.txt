@@ -1,0 +1,22 @@
+Task 2 – Responsive Webpage (HTML, CSS, JavaScript)
+
+📌 Task Description:
+Create a fully responsive webpage that adapts across different screen sizes using HTML, CSS, and optionally JavaScript. Demonstrate understanding of layout design and responsiveness.
+
+📦 Deliverables Asked:
+- Responsive webpage using HTML, CSS, and JS (if needed)
+- Screenshots or recordings showing the layout on desktop, tablet, and mobile
+- Explanation of layout structure and features
+- GitHub repository with files and documentation
+
+🧩 Page Concept:
+A simple, clean multipurpose layout was chosen to demonstrate responsiveness — including a hero section, content blocks, and call-to-action buttons.
+
+✅ Design Solutions Implemented:
+- Used Flexbox and media queries to adapt layout across screen sizes
+- Structured content into flexible sections with scalable padding and font sizes
+- Ensured readability and spacing remain balanced on all devices
+- Applied clean, modern color palette and consistent typography
+
+📈 Result:
+The page performs well on all major breakpoints (desktop ≥1024px, tablet 768–1023px, mobile ≤767px), with smooth transitions and a clear layout at every scale.

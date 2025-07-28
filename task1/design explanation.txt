@@ -1,0 +1,27 @@
+Task 1 – Website Landing Page Redesign
+
+📌 Task Description:
+Redesign the landing page of an existing website of your choice. Focus on improving the user interface (UI) and user experience (UX). Make it modern, minimal, and responsive.
+
+📦 Deliverables Asked:
+- Before and After screenshots of the design
+- Explanation of the design decisions made
+- Figma file or image mockups
+
+🌐 Website Chosen:
+OceanofPDF – a free ebook download platform
+
+🎯 Reason for Choosing:
+The original OceanofPDF homepage had several UX and UI flaws including a cluttered layout, lack of content hierarchy, no clear search or navigation aid, and an overall outdated appearance. It provided a good opportunity to demonstrate a complete homepage redesign that focuses on clarity, usability, and visual appeal.
+
+✅ Design Solutions Implemented:
+- Introduced a structured, grid-based layout to organize content clearly
+- Added a large, visible search bar in the hero section for direct access to book search
+- Created a Featured Categories section with icons to guide browsing
+- Designed uniform book cards with title, author, and download CTA
+- Used consistent spacing and modern typography for improved readability
+- Replaced the plain footer with a 4-column layout including About, Support, Legal, and Social links
+- Ensured the overall design was clean, minimal, and responsive
+
+📈 Result:
+The redesigned homepage offers improved clarity, visual balance, and ease of navigation. Users can now search, browse, and explore more efficiently — with a layout that adapts to all screen sizes.

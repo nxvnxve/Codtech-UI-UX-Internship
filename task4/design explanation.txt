@@ -1,0 +1,28 @@
+Task 4 – AR/VR Interface Design
+
+📌 Task Description:
+Design an immersive interface for an AR or VR application, focusing on usability and minimalism.
+
+📦 Deliverables:
+- UI mockups or Figma file
+- Concept description and interaction design
+
+🎮 Concept: AR Furniture Shopping App – "Hibi Studio"
+
+🎯 Why This Concept?
+- Online furniture buyers often hesitate due to size/fit concerns
+- AR bridges the gap between online visuals and physical placement
+- This concept merges aesthetics with functional real-time visualization
+
+🌿 Features and Design Decisions:
+- ✅ Clean white UI with calming cyan accents and nature-inspired motifs
+- ✅ Large AR view button for instant room placement
+- ✅ Grid-based structure with 2-column layout for scalable design
+- ✅ Clear “Recent Uploads” and “Featured Categories” sections for browsing
+- ✅ Hoverable or tappable icons with subtle shadows and rounded corners
+- ✅ Minimal text, high-contrast buttons for accessibility
+
+📈 Impact:
+- Reduces friction in the furniture-buying journey
+- Builds user confidence by visualizing products in real-time
+- Modern and aesthetic layout keeps focus on the product, not the interface

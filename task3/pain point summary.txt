@@ -1,0 +1,30 @@
+Task 3 – Mobile App Redesign
+
+📌 Task Description:
+Redesign a screen or flow from an existing mobile application to improve usability and visual clarity.
+
+📦 Deliverables:
+- Before and after screenshots/mockups
+- Explanation of UX problems and improvements
+- Figma prototype
+
+📱 App Chosen: Burger King (India)
+
+🎯 Why This App?
+- Homepage lacked visual hierarchy and breathing space
+- Overlapping banners and text elements created clutter
+- Cart page had alignment issues and button inconsistencies
+- No uniform structure between item listings and totals
+
+🛠️ Improvements Made:
+- ✅ Reorganized homepage layout into clear sections: banner, categories, offers
+- ✅ Standardized button styling across all components
+- ✅ Increased spacing between headings, sections, and interactive elements
+- ✅ Fixed alignment and used consistent margin/padding structure
+- ✅ Simplified cart UI: pricing details are clean, buttons have uniform width and size
+- ✅ Improved readability by adjusting font weights and sizes for headings vs. labels
+
+📈 Impact:
+- Enhanced visual flow for browsing and ordering
+- Reduced user confusion due to better structure
+- Created a clean and modern look while keeping Burger King’s branding intact
