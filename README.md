@@ -3,10 +3,15 @@
 Welcome to my submission for the **CodTech UI/UX Internship**, which includes all four tasks as part of the final evaluation. Each task demonstrates a unique aspect of user experience and interface design, combining creative thinking with practical implementation.
 
 COMPANY: CODTECH IT SOLUTIONS PVT. LTD.
+
 NAME: Nidhi Adhikari
+
 INTERN ID: CT04DH668
+
 DOMAIN: UI/UX Design
+
 DURATION: 4 Weeks (June 30th,2025 - July 30th,2025)
+
 MENTOR: Neela Santhosh Kumar
 
 ---
